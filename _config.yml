@@ -16,6 +16,9 @@ github_username:  hemangsk
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
-gems: [jekyll-paginate, kramdown]
+# gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate]
 # Build settings
 markdown: kramdown
+
+# port: 4001
